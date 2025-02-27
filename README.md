@@ -24,12 +24,12 @@ The dataset used in this project contains key features related to fitness class 
 
 ### IMPLICATIONS:
 #### Strategic Player Management
-	Insights into player performance, market value, and contract status can inform recruitment, development, and retention strategies.
+Insights into player performance, market value, and contract status can inform recruitment, development, and retention strategies.
 #### Tactical Match Decisions 
-	Analysis of team comparisons, substitution patterns, and event occurrences can guide tactical decisions during matches.
+Analysis of team comparisons, substitution patterns, and event occurrences can guide tactical decisions during matches.
 #### Business Optimization 
-	Understanding attendance trends and competition dynamics can help optimize stadium management and league strategies.
+Understanding attendance trends and competition dynamics can help optimize stadium management and league strategies.
 #### Data-Driven Insights
-	The project demonstrates the power of data analysis in extracting actionable insights from football data.
+The project demonstrates the power of data analysis in extracting actionable insights from football data.
 
 
