@@ -1,5 +1,5 @@
 
-# Analyst’s Playbook ⚽: Football Data Insights with Multiple Tools
+# ⚽ Analyst’s Playbook: Football Data Insights with Multiple Tools
 
  ### 💡 OBJECTIVE: 
 To analyse a football dataset, extracting valuable insights across performance, player profiles, team dynamics, match events, and business aspects to inform strategic decision-making.
