@@ -1,14 +1,14 @@
 
-# Analyst’s Playbook: Football Data Insights with Multiple Tools
+# Analyst’s Playbook ⚽: Football Data Insights with Multiple Tools
 
-💡 OBJECTIVE: 
-	To analyse a football dataset, extracting valuable insights across performance, player profiles, team dynamics, match events, and business aspects to inform strategic decision-making.
+ ### 💡 OBJECTIVE: 
+To analyse a football dataset, extracting valuable insights across performance, player profiles, team dynamics, match events, and business aspects to inform strategic decision-making.
 
-### DATA DESCRIPTION:
+### 📊 DATA DESCRIPTION:
 The dataset used in this project contains key features related to fitness class bookings. Below is a breakdown of the dataset columns.
 'appearance_id','game id','player id','date','player name', 'competition_id','yellow cards','red cards','goals','assists','minutes played', 'season','round','home_club_goals','away club goals', 'home club position','away club position', 'home club manager name'...
 
-### METHODOLOGY:
+### 📒 METHODOLOGY:
 - Data Wrangling 
 - Descriptive Analytics: 
 - Predictive Modelling: 
@@ -16,13 +16,13 @@ The dataset used in this project contains key features related to fitness class 
 - Clustering: 
 - Visualization: 
 
-### TOOLS : 
+### 🔧 TOOLS : 
 - Python (Pandas,Numpy, Scikit-learn)
 - SQL
 - Tableau
 - Excel
 
-### IMPLICATIONS:
+### ✴ IMPLICATIONS:
 #### Strategic Player Management
 Insights into player performance, market value, and contract status can inform recruitment, development, and retention strategies.
 #### Tactical Match Decisions 
